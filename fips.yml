@@ -1,0 +1,11 @@
+#
+# fips-libigl
+#
+---
+exports:
+    header-dirs: 
+      - .
+
+    modules:
+      cork64: .
+
