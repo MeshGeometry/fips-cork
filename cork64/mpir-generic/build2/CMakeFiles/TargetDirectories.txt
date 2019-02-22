@@ -1,7 +1,0 @@
-/home/mesh/Downloads/mpir-generic/build2/CMakeFiles/install.dir
-/home/mesh/Downloads/mpir-generic/build2/CMakeFiles/list_install_components.dir
-/home/mesh/Downloads/mpir-generic/build2/CMakeFiles/rebuild_cache.dir
-/home/mesh/Downloads/mpir-generic/build2/CMakeFiles/mpir.dir
-/home/mesh/Downloads/mpir-generic/build2/CMakeFiles/install/local.dir
-/home/mesh/Downloads/mpir-generic/build2/CMakeFiles/install/strip.dir
-/home/mesh/Downloads/mpir-generic/build2/CMakeFiles/edit_cache.dir

@@ -4,8 +4,9 @@
 ---
 exports:
     header-dirs: 
-      - .
+      - ./cork64/include
 
     modules:
       cork64: .
+      mpir: .
 
